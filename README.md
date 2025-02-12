@@ -3,13 +3,13 @@
 ## Модули Панели управления
 <img src="https://github.com/gearmagicru/gm-be-references/blob/master/assets/images/icon_small.svg"> Модуль **"Справочники"** ([gm-be-references](https://github.com/gearmagicru/gm-be-references))
 
-расширения модуля:
+_расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-references-articles/blob/master/assets/images/icon_small.svg">  Справочник **"Типы материалов"** ([gm-be-references-articles](https://github.com/gearmagicru/gm-be-references-articles))
 * <img src="https://github.com/gearmagicru/gm-be-references-desk/blob/master/assets/images/icon_small.svg">  Справочник **"Панель справочников"** ([gm-be-references-desk](https://github.com/gearmagicru/gm-be-references-desk))
 
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
-виджеты модуля:
+_виджеты модуля:_
 * <img src="https://github.com/gearmagicru/gm-ds-license/blob/master/assets/images/icon_small.svg">  Виджет **"Лицензия"** ([gm-ds-licens](https://github.com/gearmagicru/gm-ds-license))
 * <img src="https://github.com/gearmagicru/gm-ds-version/blob/master/assets/images/icon_small.svg"> иджет **"Версия системы"** ([gm-ds-version](https://github.com/gearmagicru/gm-ds-version))
 * <img src="https://github.com/gearmagicru/gm-ds-shortcuts/blob/master/assets/images/icon_small.svg"> Виджет **"Компоненты"** ([gm-ds-shortcuts](https://github.com/gearmagicru/gm-ds-shortcuts))
