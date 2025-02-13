@@ -4,14 +4,20 @@
 <img src="https://github.com/gearmagicru/gm-be-references/blob/master/assets/images/icon_small.svg"> Модуль **"Справочники"** ([gm-be-references](https://github.com/gearmagicru/gm-be-references))
 
 _расширения модуля:_
-* <img src="https://github.com/gearmagicru/gm-be-references-articles/blob/master/assets/images/icon_small.svg">  Справочник **"Типы материалов"** ([gm-be-references-articles](https://github.com/gearmagicru/gm-be-references-articles))
-* <img src="https://github.com/gearmagicru/gm-be-references-desk/blob/master/assets/images/icon_small.svg">  Справочник **"Панель справочников"** ([gm-be-references-desk](https://github.com/gearmagicru/gm-be-references-desk))
+* <img src="https://github.com/gearmagicru/gm-be-references-desk/blob/master/assets/images/icon_small.svg"> Справочник **"Панель справочников"** ([gm-be-references-desk](https://github.com/gearmagicru/gm-be-references-desk))
+* <img src="https://github.com/gearmagicru/gm-be-references-articles/blob/master/assets/images/icon_small.svg"> Справочник **"Типы материалов"** ([gm-be-references-articles](https://github.com/gearmagicru/gm-be-references-articles))
+* <img src="https://github.com/gearmagicru/gm-be-references-elements/blob/main/assets/images/icon_small.svg"> Справочник **"Элементы интерфейса"** ([gm-be-references-elements](https://github.com/gearmagicru/gm-be-references-elements))
+* <img src="https://github.com/gearmagicru/gm-be-references-properties/blob/main/assets/images/icon_small.svg"> Справочник **"Свойства элементов интерфейса"** ([gm-be-references-properties](https://github.com/gearmagicru/gm-be-references-properties ))
+* <img src="https://github.com/gearmagicru/gm-be-references-folder_profiles/blob/main/assets/images/icon_small.svg"> Справочник **"Профили медиапапок"** ([gm-be-references-folder_profiles](https://github.com/gearmagicru/gm-be-references-folder_profiles))
+* <img src="https://github.com/gearmagicru/gm-be-references-media_dialogs/blob/main/assets/images/icon_small.svg"> Справочник **"Медиа диалоги"** ([gm-be-references-media_dialogs](https://github.com/gearmagicru/gm-be-references-media_dialogs))
+* <img src="https://github.com/gearmagicru/gm-be-references-media_folders/blob/main/assets/images/icon_small.svg"> Справочник **"Структура медиапапок"** ([gm-be-references-media_folders](https://github.com/gearmagicru/gm-be-references-media_folders))
+* <img src="https://github.com/gearmagicru/gm-be-references-media_types/blob/main/assets/images/icon_small.svg"> Справочник **"Типы медиаданных"** ([gm-be-references-media_types](https://github.com/gearmagicru/gm-be-references-media_types))
 
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
 _виджеты модуля:_
 * <img src="https://github.com/gearmagicru/gm-ds-license/blob/master/assets/images/icon_small.svg">  Виджет **"Лицензия"** ([gm-ds-licens](https://github.com/gearmagicru/gm-ds-license))
-* <img src="https://github.com/gearmagicru/gm-ds-version/blob/master/assets/images/icon_small.svg"> иджет **"Версия системы"** ([gm-ds-version](https://github.com/gearmagicru/gm-ds-version))
+* <img src="https://github.com/gearmagicru/gm-ds-version/blob/master/assets/images/icon_small.svg"> Виджет **"Версия системы"** ([gm-ds-version](https://github.com/gearmagicru/gm-ds-version))
 * <img src="https://github.com/gearmagicru/gm-ds-shortcuts/blob/master/assets/images/icon_small.svg"> Виджет **"Компоненты"** ([gm-ds-shortcuts](https://github.com/gearmagicru/gm-ds-shortcuts))
 
 <img src="https://github.com/gearmagicru/gm-be-recovery/blob/master/assets/images/icon_small.svg"> Модуль **"Восстановление учетной записи (аккаунта)"** ([gm-be-recovery](https://github.com/gearmagicru/gm-be-recovery))
@@ -20,7 +26,7 @@ _виджеты модуля:_
 
 <img src="https://github.com/gearmagicru/gm-be-signin/blob/master/assets/images/icon_small.svg"> Модуль **"Авторизация"** ([gm-be-signin](https://github.com/gearmagicru/gm-be-signin))
 
-<img src="https://github.com/gearmagicru/gm-be-site_markup/blob/master/assets/images/icon_small.svg"> Модуль "Визуальный редактор" ([gm-be-site_markup](https://github.com/gearmagicru/gm-be-site_markup)
+<img src="https://github.com/gearmagicru/gm-be-site_markup/blob/master/assets/images/icon_small.svg"> Модуль **"Визуальный редактор"** ([gm-be-site_markup](https://github.com/gearmagicru/gm-be-site_markup)
 
 <img src="https://github.com/gearmagicru/gm-be-mediafiles/blob/main/assets/images/icon_small.svg"> Модуль **"Медиафайлы"** ([gm-be-mediafiles](https://github.com/gearmagicru/gm-be-mediafiles))
 
@@ -103,7 +109,7 @@ _виджеты модуля:_
 - **Плагин Composer** ([gm-composer-plugin](https://github.com/gearmagicru/gm-composer-plugin))
 
 ## Редакции веб-приложения GearMagic
-- **Каркас для всех редакций веб-приложения** ([gm-skeleton](https://github.com/gearmagicru/gm-skeleton))
+- **Каркас для всех редакций веб-приложений** ([gm-skeleton](https://github.com/gearmagicru/gm-skeleton))
 - **GM CMS: Редакция "Старт"** ([cms-start-edition](https://github.com/gearmagicru/cms-start-edition))
 - **GM CMS: Редакция "Стандарт"** ([cms-standart-edition](https://github.com/gearmagicru/cms-standart-edition))
 
