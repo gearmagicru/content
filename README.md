@@ -4,7 +4,7 @@
 <img src="https://github.com/gearmagicru/gm-be-references/blob/master/assets/images/icon_small.svg"> Модуль **"Справочники"** ([gm-be-references](https://github.com/gearmagicru/gm-be-references))
 
 _расширения модуля:_
-* <img src="https://github.com/gearmagicru/gm-be-references-desk/blob/master/assets/images/icon_small.svg"> Расширение модуля **"Панель справочников"** ([gm-be-references-desk](https://github.com/gearmagicru/gm-be-references-desk))
+* <img src="https://github.com/gearmagicru/gm-be-references-desk/blob/master/assets/images/icon_small.svg"> Расширение **"Панель справочников"** ([gm-be-references-desk](https://github.com/gearmagicru/gm-be-references-desk))
 * <img src="https://github.com/gearmagicru/gm-be-references-articles/blob/master/assets/images/icon_small.svg"> Справочник **"Типы материалов"** ([gm-be-references-articles](https://github.com/gearmagicru/gm-be-references-articles))
 * <img src="https://github.com/gearmagicru/gm-be-references-elements/blob/main/assets/images/icon_small.svg"> Справочник **"Элементы интерфейса"** ([gm-be-references-elements](https://github.com/gearmagicru/gm-be-references-elements))
 * <img src="https://github.com/gearmagicru/gm-be-references-properties/blob/main/assets/images/icon_small.svg"> Справочник **"Свойства элементов интерфейса"** ([gm-be-references-properties](https://github.com/gearmagicru/gm-be-references-properties ))
@@ -16,8 +16,8 @@ _расширения модуля:_
 <img src="https://github.com/gearmagicru/gm-be-config/blob/master/assets/images/icon_small.svg"> Модуль **"Конфигурация"** ([gm-be-config](https://github.com/gearmagicru/gm-be-config))
 
 _расширения модуля:_
-* <img src="https://github.com/gearmagicru/gm-be-config-desk/blob/master/assets/images/icon_small.svg"> Расширение модуля **"Панель конфигурации"** ([gm-be-config-desk](https://github.com/gearmagicru/gm-be-config-desk))
-* <img src="https://github.com/gearmagicru/gm-be-config-desk/blob/master/assets/images/icon_small.svg"> Конфигурация **"API Маршрутизация"** ([gm-be-config-desk](https://github.com/gearmagicru/gm-be-config-desk))
+* <img src="https://github.com/gearmagicru/gm-be-config-desk/blob/master/assets/images/icon_small.svg"> Расширение **"Панель конфигурации"** ([gm-be-config-desk](https://github.com/gearmagicru/gm-be-config-desk))
+* <img src="https://github.com/gearmagicru/gm-be-config-api_routes/blob/master/assets/images/icon_small.svg"> Конфигурация **"API Маршрутизация"** ([gm-be-config-api_routes](https://github.com/gearmagicru/gm-be-config-api_routes))
 
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
