@@ -18,6 +18,25 @@ _расширения модуля:_
 _расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-config-desk/blob/master/assets/images/icon_small.svg"> Расширение **"Панель конфигурации"** ([gm-be-config-desk](https://github.com/gearmagicru/gm-be-config-desk))
 * <img src="https://github.com/gearmagicru/gm-be-config-api_routes/blob/master/assets/images/icon_small.svg"> Конфигурация **"API Маршрутизация"** ([gm-be-config-api_routes](https://github.com/gearmagicru/gm-be-config-api_routes))
+* <img src="https://github.com/gearmagicru/gm-be-config-ipblocklist/blob/master/assets/images/icon_small.svg"> Конфигурация **"Список заблокированных IP-адресов"** ([gm-be-config-ipblocklist](https://github.com/gearmagicru/gm-be-config-ipblocklist))
+* <img src="https://github.com/gearmagicru/gm-be-config-ipwhitelist/blob/master/assets/images/icon_small.svg"> Конфигурация **"Белый список IP-адресов"** ([gm-be-config-ipwhitelist](https://github.com/gearmagicru/gm-be-config-ipwhitelist))
+* <img src="https://github.com/gearmagicru/gm-be-config-ipblacklist/blob/master/assets/images/icon_small.svg"> Конфигурация **"Чёрный список IP-адресов"** ([gm-be-config-ipblacklist](https://github.com/gearmagicru/gm-be-config-ipblacklist))
+* <img src="https://github.com/gearmagicru/gm-be-config-url/blob/master/assets/images/icon_small.svg"> Конфигурация **"Маршрутизация"** ([gm-be-config-url](https://github.com/gearmagicru/gm-be-config-url))
+* <img src="https://github.com/gearmagicru/gm-be-config-upload/blob/master/assets/images/icon_small.svg"> Конфигурация **"Загрузка"** ([gm-be-config-upload](https://github.com/gearmagicru/gm-be-config-upload))
+* <img src="https://github.com/gearmagicru/gm-be-config-timezone/blob/master/assets/images/icon_small.svg"> Конфигурация **"Региональные настройки"** ([gm-be-config-timezone](https://github.com/gearmagicru/gm-be-config-timezone))
+* <img src="https://github.com/gearmagicru/gm-be-config-page/blob/master/assets/images/icon_small.svg"> Конфигурация **"Информация о сайте"** ([gm-be-config-page](https://github.com/gearmagicru/gm-be-config-page))
+* <img src="https://github.com/gearmagicru/gm-be-config-services/blob/master/assets/images/icon_small.svg"> Конфигурация **"Службы"** ([gm-be-config-services](https://github.com/gearmagicru/gm-be-config-services))
+* <img src="https://github.com/gearmagicru/gm-be-config-session/blob/master/assets/images/icon_small.svg"> Конфигурация **"Сессия"** ([gm-be-config-session](https://github.com/gearmagicru/gm-be-config-session))
+* <img src="https://github.com/gearmagicru/gm-be-config-mail/blob/master/assets/images/icon_small.svg"> Конфигурация **"Почта"** ([gm-be-config-mail](https://github.com/gearmagicru/gm-be-config-mail))
+* <img src="https://github.com/gearmagicru/gm-be-config-logger/blob/master/assets/images/icon_small.svg"> Конфигурация **"Логирование"** ([gm-be-config-logger](https://github.com/gearmagicru/gm-be-config-logger))
+* <img src="https://github.com/gearmagicru/gm-be-config-wspace/blob/master/assets/images/icon_small.svg"> Конфигурация **"Рабочее пространство"** ([gm-be-config-wspace](https://github.com/gearmagicru/gm-be-config-wspace))
+* <img src="https://github.com/gearmagicru/gm-be-config-version/blob/master/assets/images/icon_small.svg"> Конфигурация **"Версия"** ([gm-be-config-version](https://github.com/gearmagicru/gm-be-config-version))
+* <img src="https://github.com/gearmagicru/gm-be-config-license/blob/master/assets/images/icon_small.svg"> Конфигурация **"Лицензия"** ([gm-be-config-license](https://github.com/gearmagicru/gm-be-config-license))
+* <img src="https://github.com/gearmagicru/gm-be-config-defense/blob/master/assets/images/icon_small.svg"> Конфигурация **"Настройка доступа по IP-адресу"** ([gm-be-config-defense](https://github.com/gearmagicru/gm-be-config-defense))
+* <img src="https://github.com/gearmagicru/gm-be-config-datetime/blob/master/assets/images/icon_small.svg"> Конфигурация **"Дата и Время"** ([gm-be-config-datetime](https://github.com/gearmagicru/gm-be-config-datetime))
+* <img src="https://github.com/gearmagicru/gm-be-config-cache/blob/master/assets/images/icon_small.svg"> Конфигурация **"Кэш"** ([gm-be-config-cache](https://github.com/gearmagicru/gm-be-config-cache))
+* <img src="https://github.com/gearmagicru/gm-be-config-autorun/blob/master/assets/images/icon_small.svg"> Конфигурация **"Автозапуск"** ([gm-be-config-autorun](https://github.com/gearmagicru/gm-be-config-autorun))
+* <img src="https://github.com/gearmagicru/gm-be-config-audit/blob/master/assets/images/icon_small.svg"> Конфигурация **"Настройка аудита"** ([gm-be-config-audit](https://github.com/gearmagicru/gm-be-config-audit))
 
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
@@ -32,7 +51,7 @@ _виджеты модуля:_
 
 <img src="https://github.com/gearmagicru/gm-be-signin/blob/master/assets/images/icon_small.svg"> Модуль **"Авторизация"** ([gm-be-signin](https://github.com/gearmagicru/gm-be-signin))
 
-<img src="https://github.com/gearmagicru/gm-be-site_markup/blob/master/assets/images/icon_small.svg"> Модуль **"Визуальный редактор"** ([gm-be-site_markup](https://github.com/gearmagicru/gm-be-site_markup)
+<img src="https://github.com/gearmagicru/gm-be-site_markup/blob/master/assets/images/icon_small.svg"> Модуль **"Визуальный редактор"** ([gm-be-site_markup](https://github.com/gearmagicru/gm-be-site_markup))
 
 <img src="https://github.com/gearmagicru/gm-be-mediafiles/blob/main/assets/images/icon_small.svg"> Модуль **"Медиафайлы"** ([gm-be-mediafiles](https://github.com/gearmagicru/gm-be-mediafiles))
 
