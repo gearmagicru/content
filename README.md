@@ -85,6 +85,10 @@ _виджеты модуля:_
 
 <img src="https://github.com/gearmagicru/gm-be-tags/blob/master/assets/images/icon_small.svg"> Модуль **"Менеджер меток"** ([gm-be-tags](https://github.com/gearmagicru/gm-be-tags))
 
+<img src="https://github.com/gearmagicru/gm-be-articles/blob/master/assets/images/icon_small.svg"> Модуль **"Материалы сайта"** ([gm-be-articles](https://github.com/gearmagicru/gm-be-articles))
+
+<img src="https://github.com/gearmagicru/gm-be-article_categories/blob/master/assets/images/icon_small.svg"> Модуль **"Категории материала сайта"** ([gm-be-article_categories](https://github.com/gearmagicru/gm-be-article_categories))
+
 <img src="https://raw.githubusercontent.com/gearmagicru/gm-setup/refs/heads/master/assets/ico/favicon.svg" height="16px"> Модуль **"Установщик"** ([gm-setup](https://github.com/gearmagicru/gm-setup))
 
 ## Модули Веб-сайта
