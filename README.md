@@ -38,6 +38,11 @@ _расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-config-autorun/blob/master/assets/images/icon_small.svg"> Конфигурация **"Автозапуск"** ([gm-be-config-autorun](https://github.com/gearmagicru/gm-be-config-autorun))
 * <img src="https://github.com/gearmagicru/gm-be-config-audit/blob/master/assets/images/icon_small.svg"> Конфигурация **"Настройка аудита"** ([gm-be-config-audit](https://github.com/gearmagicru/gm-be-config-audit))
 
+<img src="https://github.com/gearmagicru/gm-be-mp/blob/master/assets/images/icon_small.svg"> Модуль **"Маркетплейс"** ([gm-be-config](https://github.com/gearmagicru/gm-be-mp))
+
+_расширения модуля:_
+* <img src="https://github.com/gearmagicru/gm-be-mp-catalog/blob/master/assets/images/icon_small.svg"> Расширение **"Каталог Маркетплейс"** ([gm-be-config-desk](https://github.com/gearmagicru/gm-be-mp-catalog))
+
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
 _виджеты модуля:_
@@ -88,6 +93,12 @@ _виджеты модуля:_
 <img src="https://github.com/gearmagicru/gm-be-articles/blob/master/assets/images/icon_small.svg"> Модуль **"Материалы сайта"** ([gm-be-articles](https://github.com/gearmagicru/gm-be-articles))
 
 <img src="https://github.com/gearmagicru/gm-be-article_categories/blob/master/assets/images/icon_small.svg"> Модуль **"Категории материала сайта"** ([gm-be-article_categories](https://github.com/gearmagicru/gm-be-article_categories))
+
+<img src="https://github.com/gearmagicru/gm-be-error_report/blob/master/assets/images/icon_small.svg"> Модуль **"Отчёт об ошибке"** ([gm-be-error_report](https://github.com/gearmagicru/gm-be-error_report))
+
+<img src="https://github.com/gearmagicru/gm-be-guide/blob/master/assets/images/icon_small.svg"> Модуль **"Справочная информация"** ([gm-be-guide](https://github.com/gearmagicru/gm-be-guide))
+
+<img src="https://github.com/gearmagicru/gm-be-audit_log/blob/master/assets/images/icon_small.svg"> Модуль **"Журнал аудита"** ([gm-be-audit_log](https://github.com/gearmagicru/gm-be-audit_log))
 
 <img src="https://raw.githubusercontent.com/gearmagicru/gm-setup/refs/heads/master/assets/ico/favicon.svg" height="16px"> Модуль **"Установщик"** ([gm-setup](https://github.com/gearmagicru/gm-setup))
 
