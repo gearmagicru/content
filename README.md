@@ -41,7 +41,13 @@ _расширения модуля:_
 <img src="https://github.com/gearmagicru/gm-be-mp/blob/master/assets/images/icon_small.svg"> Модуль **"Маркетплейс приложений"** ([gm-be-mp](https://github.com/gearmagicru/gm-be-mp))
 
 _расширения модуля:_
+* <img src="https://github.com/gearmagicru/gm-be-mp-desk/blob/master/assets/images/icon_small.svg"> Расширение **"Панель приложений Маркетплейс"** ([gm-be-mp-desk](https://github.com/gearmagicru/gm-be-mp-desk))
 * <img src="https://github.com/gearmagicru/gm-be-mp-catalog/blob/master/assets/images/icon_small.svg"> Расширение **"Каталог приложений Маркетплейс"** ([gm-be-mp-catalog](https://github.com/gearmagicru/gm-be-mp-catalog))
+* <img src="https://github.com/gearmagicru/gm-be-mp-mmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер модулей"** ([gm-be-mp-mmanager](https://github.com/gearmagicru/gm-be-mp-mmanager))
+* <img src="https://github.com/gearmagicru/gm-be-mp-emanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер расширений модулей"** ([gm-be-mp-emanager](https://github.com/gearmagicru/gm-be-mp-emanager))
+* <img src="https://github.com/gearmagicru/gm-be-mp-wmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер виджетов"** ([gm-be-mp-mmanager](https://github.com/gearmagicru/gm-be-mp-wmanager))
+* <img src="https://github.com/gearmagicru/gm-be-mp-pmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер плагинов"** ([gm-be-mp-pmanager](https://github.com/gearmagicru/gm-be-mp-pmanager))
+* <img src="https://github.com/gearmagicru/gm-be-mp-themes/blob/master/assets/images/icon_small.svg"> Расширение **"Темы"** ([gm-be-mp-themes](https://github.com/gearmagicru/gm-be-mp-themes))
 
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
@@ -49,6 +55,11 @@ _виджеты модуля:_
 * <img src="https://github.com/gearmagicru/gm-ds-license/blob/master/assets/images/icon_small.svg">  Виджет **"Лицензия"** ([gm-ds-licens](https://github.com/gearmagicru/gm-ds-license))
 * <img src="https://github.com/gearmagicru/gm-ds-version/blob/master/assets/images/icon_small.svg"> Виджет **"Версия системы"** ([gm-ds-version](https://github.com/gearmagicru/gm-ds-version))
 * <img src="https://github.com/gearmagicru/gm-ds-shortcuts/blob/master/assets/images/icon_small.svg"> Виджет **"Компоненты"** ([gm-ds-shortcuts](https://github.com/gearmagicru/gm-ds-shortcuts))
+
+<img src="https://github.com/gearmagicru/gm-be-media_gallery/blob/master/assets/images/icon_small.svg"> Модуль **"Медиагалерея"** ([gm-be-media_gallery](https://github.com/gearmagicru/gm-be-media_gallery))
+
+_плагины модуля:_
+* <img src="https://github.com/gearmagicru/gm-plg-image_album/blob/master/assets/images/icon_small.svg">  Виджет **"Фотоальбом"** ([gm-plg-image_album](https://github.com/gearmagicru/gm-plg-image_album))
 
 <img src="https://github.com/gearmagicru/gm-be-recovery/blob/master/assets/images/icon_small.svg"> Модуль **"Восстановление учетной записи (аккаунта)"** ([gm-be-recovery](https://github.com/gearmagicru/gm-be-recovery))
 
@@ -71,8 +82,6 @@ _виджеты модуля:_
 <img src="https://github.com/gearmagicru/gm-be-languages/blob/master/assets/images/icon_small.svg"> Модуль **"Языки"** ([gm-be-languages](https://github.com/gearmagicru/gm-be-languages))
 
 <img src="https://github.com/gearmagicru/gm-be-debug_toolbar/blob/master/assets/images/icon_small.svg"> Модуль **"Панель инструментов отладчика"** ([gm-be-debug_toolbar](https://github.com/gearmagicru/gm-be-debug_toolbar))
-
-<img src="https://github.com/gearmagicru/gm-be-media_gallery/blob/master/assets/images/icon_small.svg"> Модуль **"Медиагалерея"** ([gm-be-media_gallery](https://github.com/gearmagicru/gm-be-media_gallery))
 
 <img src="https://github.com/gearmagicru/gm-be-workspace/blob/master/assets/images/icon_small.svg"> Модуль **"Рабочее пространство"** ([gm-be-workspace](https://github.com/gearmagicru/gm-be-workspace))
 
