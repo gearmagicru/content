@@ -45,7 +45,7 @@ _расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-mp-catalog/blob/master/assets/images/icon_small.svg"> Расширение **"Каталог приложений Маркетплейс"** ([gm-be-mp-catalog](https://github.com/gearmagicru/gm-be-mp-catalog))
 * <img src="https://github.com/gearmagicru/gm-be-mp-mmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер модулей"** ([gm-be-mp-mmanager](https://github.com/gearmagicru/gm-be-mp-mmanager))
 * <img src="https://github.com/gearmagicru/gm-be-mp-emanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер расширений модулей"** ([gm-be-mp-emanager](https://github.com/gearmagicru/gm-be-mp-emanager))
-* <img src="https://github.com/gearmagicru/gm-be-mp-wmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер виджетов"** ([gm-be-mp-mmanager](https://github.com/gearmagicru/gm-be-mp-wmanager))
+* <img src="https://github.com/gearmagicru/gm-be-mp-wmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер виджетов"** ([gm-be-mp-wmanager](https://github.com/gearmagicru/gm-be-mp-wmanager))
 * <img src="https://github.com/gearmagicru/gm-be-mp-pmanager/blob/master/assets/images/icon_small.svg"> Расширение **"Менеджер плагинов"** ([gm-be-mp-pmanager](https://github.com/gearmagicru/gm-be-mp-pmanager))
 * <img src="https://github.com/gearmagicru/gm-be-mp-themes/blob/master/assets/images/icon_small.svg"> Расширение **"Темы"** ([gm-be-mp-themes](https://github.com/gearmagicru/gm-be-mp-themes))
 
