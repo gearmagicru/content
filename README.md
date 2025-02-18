@@ -52,7 +52,7 @@ _расширения модуля:_
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
 _виджеты модуля:_
-* <img src="https://github.com/gearmagicru/gm-ds-license/blob/master/assets/images/icon_small.svg">  Виджет **"Лицензия"** ([gm-ds-licens](https://github.com/gearmagicru/gm-ds-license))
+* <img src="https://github.com/gearmagicru/gm-ds-license/blob/master/assets/images/icon_small.svg">  Виджет **"Лицензия"** ([gm-ds-license](https://github.com/gearmagicru/gm-ds-license))
 * <img src="https://github.com/gearmagicru/gm-ds-version/blob/master/assets/images/icon_small.svg"> Виджет **"Версия системы"** ([gm-ds-version](https://github.com/gearmagicru/gm-ds-version))
 * <img src="https://github.com/gearmagicru/gm-ds-shortcuts/blob/master/assets/images/icon_small.svg"> Виджет **"Компоненты"** ([gm-ds-shortcuts](https://github.com/gearmagicru/gm-ds-shortcuts))
 
