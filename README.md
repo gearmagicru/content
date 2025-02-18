@@ -59,7 +59,7 @@ _виджеты модуля:_
 <img src="https://github.com/gearmagicru/gm-be-media_gallery/blob/master/assets/images/icon_small.svg"> Модуль **"Медиагалерея"** ([gm-be-media_gallery](https://github.com/gearmagicru/gm-be-media_gallery))
 
 _плагины модуля:_
-* <img src="https://github.com/gearmagicru/gm-plg-image_album/blob/master/assets/images/icon_small.svg">  Виджет **"Фотоальбом"** ([gm-plg-image_album](https://github.com/gearmagicru/gm-plg-image_album))
+* <img src="https://github.com/gearmagicru/gm-plg-image_album/blob/master/assets/images/icon_small.svg">  Плагин **"Фотоальбом"** ([gm-plg-image_album](https://github.com/gearmagicru/gm-plg-image_album))
 
 <img src="https://github.com/gearmagicru/gm-be-recovery/blob/master/assets/images/icon_small.svg"> Модуль **"Восстановление учетной записи (аккаунта)"** ([gm-be-recovery](https://github.com/gearmagicru/gm-be-recovery))
 
