@@ -38,10 +38,10 @@ _расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-config-autorun/blob/master/assets/images/icon_small.svg"> Конфигурация **"Автозапуск"** ([gm-be-config-autorun](https://github.com/gearmagicru/gm-be-config-autorun))
 * <img src="https://github.com/gearmagicru/gm-be-config-audit/blob/master/assets/images/icon_small.svg"> Конфигурация **"Настройка аудита"** ([gm-be-config-audit](https://github.com/gearmagicru/gm-be-config-audit))
 
-<img src="https://github.com/gearmagicru/gm-be-mp/blob/master/assets/images/icon_small.svg"> Модуль **"Маркетплейс"** ([gm-be-mp](https://github.com/gearmagicru/gm-be-mp))
+<img src="https://github.com/gearmagicru/gm-be-mp/blob/master/assets/images/icon_small.svg"> Модуль **"Маркетплейс приложений"** ([gm-be-mp](https://github.com/gearmagicru/gm-be-mp))
 
 _расширения модуля:_
-* <img src="https://github.com/gearmagicru/gm-be-mp-catalog/blob/master/assets/images/icon_small.svg"> Расширение **"Каталог Маркетплейс"** ([gm-be-mp-catalog](https://github.com/gearmagicru/gm-be-mp-catalog))
+* <img src="https://github.com/gearmagicru/gm-be-mp-catalog/blob/master/assets/images/icon_small.svg"> Расширение **"Каталог приложений Маркетплейс"** ([gm-be-mp-catalog](https://github.com/gearmagicru/gm-be-mp-catalog))
 
 <img src="https://github.com/gearmagicru/gm-be-dashboard/blob/master/assets/images/icon_small.svg"> Модуль **"Информационная панель"** ([gm-be-dashboard](https://github.com/gearmagicru/gm-be-dashboard))
 
