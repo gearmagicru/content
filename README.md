@@ -1,7 +1,7 @@
 # Описание репозиториев GearMagic
 
 ## Модули Панели управления
-<img src="https://github.com/gearmagicru/gm-be-references/blob/master/assets/images/icon_small.svg"> Модуль **"Справочники"** ([gm-be-references](https://github.com/gearmagicru/gm-be-references))
+<img src="https://raw.githubusercontent.com/gearmagicru/gm-be-reference/refs/heads/main/assets/images/icon_small.svg"> Модуль **"Справочники"** ([gm-be-references](https://github.com/gearmagicru/gm-be-reference))
 
 _расширения модуля:_
 * <img src="https://github.com/gearmagicru/gm-be-references-desk/blob/master/assets/images/icon_small.svg"> Расширение **"Панель справочников"** ([gm-be-references-desk](https://github.com/gearmagicru/gm-be-references-desk))
